@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarode007&label=Profile%20views&color=0e75b6&style=flat" alt="sarode007" /> </p>
 
-- 🔭 I’m currently working on [Diagramtix](https://code-diagramerz-app-v1-1.onrender.com/)
+- 🔭 I’m currently working on [Diagramatix](https://code-diagramerz-app-v1-1.onrender.com/)
 
 - 🌱 I’m currently learning **Springboot**
 
